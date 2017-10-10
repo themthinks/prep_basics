@@ -500,7 +500,7 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 #### Above the Fold
 
-Content that is visible immediately when the page is loaded, without having to scroll. Good design will place important elements here so the site's visitors don't have to scroll to find content. A reference to olde-tymey newspaper formatting, where headlines would be placed prominently above the physical fold.
+Content that is visible immediately when the page is loaded, without having to scroll. Good design will place important elements here so the site's visitors don't have to scroll to find content. A reference to olde-tymey newspaper formatting, where headlines would be placed prominently above the physical fold. In marketing terms this is what you would call the "hero" or "landing" section.
 
 *Contributed by [Dan Berger](https://github.com/dsberger) and [Nick Schwaderer](http://github.com/Schwad)*
 
